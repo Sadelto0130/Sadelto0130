@@ -48,6 +48,14 @@ Cotizador de criptomonedas en tiempo real con interfaz limpia y diseño responsi
 
 ---
 
+## 📈 Estadísticas de GitHub  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadelto0130&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="160" />
+</p>
+
+---
+
 ## 📬 Conectemos  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor%20Salazar%20Del%20Toro-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/victor-salazar-del-toro/)  

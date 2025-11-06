@@ -1,4 +1,4 @@
-![Victor Salazar Del Toro Banner](./banner_victor.png)
+![Victor Salazar Del Toro Banner](./banner_victor_.png)
 
 # 👋 ¡Hola! Soy Victor Salazar Del Toro  
 ### 💻 Full Stack Developer | MERN & PERN Stack  

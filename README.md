@@ -1,5 +1,9 @@
+![Victor Salazar Del Toro Banner](./banner_victor.png)
+![Uploading banner_victor.png…]()
+
 # 👋 ¡Hola! Soy Victor Salazar Del Toro  
 ### 💻 Full Stack Developer | MERN & PERN Stack  
+
 
 Soy un **desarrollador full stack** apasionado por construir aplicaciones web completas, rápidas y escalables.  
 Trabajo principalmente con los stacks **MERN** (MongoDB, Express, React, Node.js) y **PERN** (PostgreSQL, Express, React, Node.js), aplicando buenas prácticas de desarrollo y arquitectura limpia.  
